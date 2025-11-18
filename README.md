@@ -78,12 +78,6 @@ I love building modern web applications and exploring new technologies to solve 
 - 💡 Improving UI/UX with **Tailwind CSS**
 - 📘 Working on personal MERN projects
 
----
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=abdullahbdbd&label=Profile%20Views&color=0e75b6&style=flat" alt="abdullahbdbd" />
