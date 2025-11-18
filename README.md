@@ -4,6 +4,12 @@ I love building modern web applications and exploring new technologies to solve 
 
 ---
 
+## About Me
+I am exploring **Next.js** and building MERN stack projects.  
+Currently improving **UI/UX** with Tailwind CSS and working on personal web development projects.  
+
+---
+
 ### 🧰 Technology Stack
 
 #### 💻 Languages
