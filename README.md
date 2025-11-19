@@ -4,9 +4,14 @@ I love building modern web applications and exploring new technologies to solve 
 
 ---
 
-## About Me
-I am exploring **Next.js** and building MERN stack projects.  
-Currently improving **UI/UX** with Tailwind CSS and working on personal web development projects.  
+## 👨‍💻 About Me
+Hi, I'm **Abdullah** — a passionate **MERN Stack Developer** who loves bringing ideas to life through clean and efficient code. 💡  
+I enjoy creating **full-stack web apps** with intuitive user interfaces and meaningful user experiences. 🎨  
+
+🚀 I'm currently exploring **Next.js** and **TypeScript**, focusing on building scalable projects that blend performance and creativity.  
+🎯 My goal is to become a well-rounded **full-stack engineer** capable of solving real-world challenges with modern technologies.
+
+
 
 ---
 
@@ -75,14 +80,6 @@ Currently improving **UI/UX** with Tailwind CSS and working on personal web deve
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
-
-
----
-
-### 🎯 Current Focus
-- 🚀 Learning **Next.js** and **TypeScript**
-- 💡 Improving UI/UX with **Tailwind CSS**
-- 📘 Working on personal MERN projects
 
 
 <p>
