@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co.com/2Yvcqg6w/Chat-GPT-Image-Dec-31-2025-10-19-55-PM.png" alt="MasterHead" />
+<img src="https://i.ibb.co.com/KxzXtgvH/Chat-GPT-Image-Dec-31-2025-10-08-40-PM.png" alt="MasterHead" />
 </div>
 
 # Hi there, I'm Abdullah 👋  
