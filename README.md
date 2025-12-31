@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="https://i.ibb.co.com/KxzXtgvH/Chat-GPT-Image-Dec-31-2025-10-08-40-PM.png" alt="MasterHead" />
+
+</div>
+
+
 # Hi there, I'm Abdullah 👋  
 I'm a passionate **MERN Stack Developer** from **Bangladesh**.  
 I love building modern web applications and exploring new technologies to solve real-world problems.
